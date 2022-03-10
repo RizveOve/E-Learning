@@ -1,0 +1,45 @@
+.containerHF{
+    background-color: #F0FFF0 !important;
+}
+.mainlogo img{
+    width: 192px;
+}
+.container{
+    background-color: transparent !important;
+    margin-bottom: 30px;
+}
+.signin{
+    background-color: #21B573;
+    color: white;
+    padding: 8px 24px;
+    border: none;
+    border-radius: 30px;
+}
+
+.nav-link{
+    color: black !important;
+    padding-right: 28px !important;
+}
+.carousel img{
+    padding: 400px;
+    width: 100px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-40{
+    margin-bottom: 40px;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.text{
+    padding: 50px 30px;
+}
+.text h1{
+    font-weight: bold;
+    font-size: 48px;
+}
+.content img{
+    width: 66px;
+}
